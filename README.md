@@ -1,6 +1,6 @@
 ### Hello, i'm Matheus H Portela. A young developer that has just started his career as a programmer! 👋
 - 🔭 I’m currently working on two projects: Inventory System and Ticket System for <a href = "https://iscbrazil.com/pt-br/">International School of Curitiba</a>
-- 🌱 I’m currently learning: NodeJS
+- 🌱 I’m currently learning: NodeJS and Prisma!
 
 <div align="center">
   <a href="https://github.com/matheushportela">
