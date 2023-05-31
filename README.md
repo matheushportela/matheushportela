@@ -1,6 +1,6 @@
-### Hello, i'm Matheus H Portela. A young developer that has just started his career as a programmer! 👋
-- 🔭 I’m currently working on two projects: Inventory System and Ticket System for <a href = "https://iscbrazil.com/pt-br/">International School of Curitiba</a>
-- 🌱 I’m currently learning: NodeJS and Prisma!
+### Hello, i'm Matheus H Portela. A young developer with a passion for backend development! 👋
+- 🔭 Besides my full-time job, I'm also working on a personal project: Amazon Webscrapper in Python using Pandas and BeautifulSoup
+- 🌱 I also have a degree in Systems Analysis and Development and I'm studying a Bachelor's Degree in Systems Engineering!
 
 <div align="center">
   <a href="https://github.com/matheushportela">
