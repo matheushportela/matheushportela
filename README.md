@@ -1,5 +1,5 @@
-### Hello, i'm Matheus H Portela. A young developer with a passion for backend development! 👋
-- 🔭 Besides my full-time job, I'm also working on a personal project: Amazon Webscrapper in Python using Pandas and BeautifulSoup
+### Hello, i'm Matheus H Portela. A young developer with a passion for Machine Learning and Neural Network! 👋
+- 🔭 Besides my full-time job as a backend developer, I'm also working on a personal project: Amazon Webscrapper in Python using Pandas and BeautifulSoup
 - 🌱 I also have a degree in Systems Analysis and Development and I'm studying a Bachelor's Degree in Systems Engineering!
 
 <div align="center">
